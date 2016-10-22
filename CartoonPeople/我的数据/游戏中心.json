@@ -1,0 +1,208 @@
+{
+	"response": {
+		"themes": [{
+			"gameItems": [{
+				"tag": [
+					"校花",
+					"高手",
+					"恋爱"],
+				"downPath": "http://tel.down.manhuaren.com/android/game/xhdtsgs/yiqi-xhdtsgs-16-09-01.apk",
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/9/6/37/6/edd48c3eaa53494fb4a886904b0704af_tmb_220x200.jpg",
+				"id": "0d14a9bd-e257-4567-b8d1-7e458518cece",
+				"intro": "《校花的贴身高手》是根据起点白金作家鱼人二代的同名人气小说改编的校园恋爱养成手游，不仅原汁原味还原小说中的经典剧情与人物，更首创爆衣技能大招，热辣少女养成系统、新奇热血的玩法，搭载精致的二次元日系唯美画风，带领玩家走进暧昧纠缠的青春轻喜剧，是不可不玩的校园修真回合大作!",
+				"joinNum": 3500,
+				"label": "2",
+				"name": "校花的贴身高手",
+				"packageName": "com.yhgame.xh.huashi",
+				"jumpType": 0,
+				"jumpUrl": ""
+			}],
+			"isMore": 0,
+			"theme": "本期主打",
+			"type": 0,
+			"hotGiftItems": null,
+			"hotClubItems": null
+		}, {
+			"gameItems": [{
+				"tag": [
+					"换装",
+					"男神",
+					"恋爱"],
+				"downPath": " http://tel.down.manhuaren.com/android/game/xmdmlrj/yiqi-xmdmlrj-16-09-07.apk",
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/57d3baa224d949029240e6fab5d3c41b_tmb_220x200.png",
+				"id": "45953ad7-2371-4432-b34f-0cdf07db3336",
+				"intro": "英雄互娱首款暖心恋爱换装手游《夏目的美丽日记》！秉承日系赛璐璐画风，首创恋爱约会模式，独有情侣换装CP感爆棚！千面男主暖心邂逅，牵手谱写甜蜜恋曲；知名声优倾情加盟，温柔发声诉说属于你的我的初恋；更有绝不撞衫的各色搭配，开启多样化专属衣柜。华丽蜕变化身公主，你值得被疼爱。",
+				"joinNum": 5000,
+				"label": "2",
+				"name": "夏目的美丽日记",
+				"packageName": "com.dddwan.summer.yingxiong",
+				"jumpType": 0,
+				"jumpUrl": ""
+			}, {
+				"tag": [
+					"回合",
+					"休闲",
+					"冒险"],
+				"downPath": "http://tel.down.manhuaren.com/android/game/mxywk/yiqi-mxywk-16-07-07.apk",
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/4/37/6/3311fec9061f40d0b777311abb8fd3ab_tmb_220x200.png",
+				"id": "15c0d1d9-d13f-4945-8821-57113a8a9830",
+				"intro": "《冒险与挖矿》是由角川书店授权的正版手游。其怀旧像素画面风格，海量动漫角入驻，休闲挂机放置玩法，受到广大玩家的好评，游戏曾4次被App Store推荐至首页。除此之外英雄乱战、冒险闯关、地心挖矿等诸多独具创意且风格迥异的游戏玩法，更让玩家在游戏过程中获得绝佳的游戏体验。",
+				"joinNum": 31000,
+				"label": "1",
+				"name": "冒险与挖矿",
+				"packageName": "com.aam.yxhy",
+				"jumpType": 0,
+				"jumpUrl": ""
+			}, {
+				"tag": [
+					"校花",
+					"高手",
+					"恋爱"],
+				"downPath": "http://tel.down.manhuaren.com/android/game/xhdtsgs/yiqi-xhdtsgs-16-09-01.apk",
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/9/6/37/6/edd48c3eaa53494fb4a886904b0704af_tmb_220x200.jpg",
+				"id": "0d14a9bd-e257-4567-b8d1-7e458518cece",
+				"intro": "《校花的贴身高手》是根据起点白金作家鱼人二代的同名人气小说改编的校园恋爱养成手游，不仅原汁原味还原小说中的经典剧情与人物，更首创爆衣技能大招，热辣少女养成系统、新奇热血的玩法，搭载精致的二次元日系唯美画风，带领玩家走进暧昧纠缠的青春轻喜剧，是不可不玩的校园修真回合大作!",
+				"joinNum": 3500,
+				"label": "2",
+				"name": "校花的贴身高手",
+				"packageName": "com.yhgame.xh.huashi",
+				"jumpType": 0,
+				"jumpUrl": ""
+			}, {
+				"tag": [
+					"竞技",
+					"横版",
+					"冒险"],
+				"downPath": "http://tel.down.manhuaren.com/android/game/ddd/yiqi-ddd-16-08-24.apk",
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/1/37/6/64bff1ee04434f01a598a3b5d868e99d_tmb_220x200.png",
+				"id": "d8112541-4502-446d-884a-32cef3367128",
+				"intro": "全新版本英雄联赛竞技场强势来袭，3V3对战，角逐弹王荣耀！ 竞技场平衡体系、最公平的竞技赛事，实时语聊与基友开黑！ 萌萌哒弹射休闲竞技手游，弹弹岛2暑期陪你清凉一夏！ 新宠黑暗死神登场，霸气属性，助战冒险 公会任务，齐心协力，冒险不孤单，欢乐齐分享 实时语聊秀恩爱，分享照片晒心情 SNH48三位成员李艺彤、莫寒、杨韫玉倾情代言，邀你共享弹射乐趣! 奶茶超人、yoyo超人、夏一可等众多知名声优助阵配音，游戏的同时享受耳听盛宴！ 林熊猫、安蕾尔、贝拉、陈潇、野猪桃桃宝、 紫颜、ALY李易臻等多栖艺人友情助力，同享逗趣新体验！ 加入弹弹岛2，即刻探索奇幻世界，开启梦幻冒险！",
+				"joinNum": 3000,
+				"label": "2",
+				"name": "弹弹岛2",
+				"packageName": "com.wyd.hero.dandandao.hero",
+				"jumpType": 0,
+				"jumpUrl": ""
+			}, {
+				"tag": [
+					"武侠",
+					"正版",
+					"霹雳"],
+				"downPath": "http://tel.down.manhuaren.com/android/game/pltx/yiqi-pltx-16-08-26.apk",
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/7/20/37/6/848b77c871ec498d9aac1db4876ed61d_tmb_220x200.png",
+				"id": "ac7b00e5-d4ad-4f28-a4ab-bdc823eab426",
+				"intro": "《霹雳天下》是大陆第一款官方授权的全3D制作之霹雳布袋戏手机游戏，玩家能够以全3D自由视角进 行战斗，绝不错过任何精彩画面！在游戏中，玩家将操作可爱Q版的霹雳英雄们进行战斗，通过英雄养成与策略组队来获得胜利。游戏还植入全球首创“指杀系统”，战斗的胜负除了仰仗霹雳英雄们外 ，将由你一“指”掌握！",
+				"joinNum": 16000,
+				"label": "1",
+				"name": "霹雳天下",
+				"packageName": "com.boyhoodtech.pli.and.gwb",
+				"jumpType": 0,
+				"jumpUrl": ""
+			}],
+			"isMore": 1,
+			"theme": "精品推荐",
+			"type": 3,
+			"hotGiftItems": null,
+			"hotClubItems": null
+		}, {
+			"gameItems": null,
+			"isMore": 1,
+			"theme": "热门圈子",
+			"type": 2,
+			"hotGiftItems": null,
+			"hotClubItems": [{
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/7/21/37/6/d95a792906e647c8ba01e8496f47e302.jpg",
+				"id": "b57b75ae-610e-4ae1-be71-5b2939138a7a",
+				"intro": "共2992人已加入",
+				"vitalityValue": 15.6,
+				"messageNum": 15,
+				"vitalityString": "16",
+				"name": "高能游戏圈"
+			}, {
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/7/quanzi/2016/6/27/37/6/5fa44a96105946d6a8b48dac0b871e74.png",
+				"id": "b03f70f0-325d-4952-aba0-98f2795afb1f",
+				"intro": "共52425人已加入",
+				"vitalityValue": 1.1,
+				"messageNum": 1,
+				"vitalityString": "1",
+				"name": "海贼王ONE PIECE"
+			}, {
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/7/quanzi/2016/4/27/31/6/276c27c0677a4358b99d4a8021442199.jpg",
+				"id": "afbbfbe2-f358-4a43-a63f-cca094e2429a",
+				"intro": "共14400人已加入",
+				"vitalityValue": 1.1,
+				"messageNum": 1,
+				"vitalityString": "1",
+				"name": "火影忍者"
+			}, {
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/7/quanzi/2016/6/30/37/6/147232f5efc94fa480ce49198d17f68d.jpg",
+				"id": "269a6c87-be21-4b29-bf29-96c2671ad11d",
+				"intro": "共5787人已加入",
+				"vitalityValue": 0.60000000000000009,
+				"messageNum": 1,
+				"vitalityString": "1",
+				"name": "崩坏学园"
+			}, {
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/7/quanzi/2016/7/1/37/6/a2b81edcff55495c90647146f67235aa.jpg",
+				"id": "2c7bc4ab-a74b-4b28-b35d-fe570b52357b",
+				"intro": "共10944人已加入",
+				"vitalityValue": 23.1,
+				"messageNum": 23,
+				"vitalityString": "23",
+				"name": "百炼成神"
+			}]
+		}, {
+			"gameItems": null,
+			"isMore": 1,
+			"theme": "热门礼包",
+			"type": 1,
+			"hotGiftItems": [{
+				"id": "28da0643-55bb-4966-829f-4327ccfdd2a3",
+				"giftId": "32677506-0465-40c0-8e56-b6b8ad32ea6b",
+				"giftName": "强化礼包",
+				"giftIntro": "使用方法：点击右侧功能菜单按钮-点击设置-点击兑换礼包",
+				"giftContent": [
+					"礼包内容：强化晶体*200，次级电气部件*15，次级机械零件*10"],
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/25/37/6/f36a3f209e594accb4a24733aefefa94_tmb_220x200.png",
+				"name": "新世纪福音战士OL"
+			}, {
+				"id": "d8112541-4502-446d-884a-32cef3367128",
+				"giftId": "e47400b8-cc79-47b4-a7e6-635d087f106e",
+				"giftName": "新版本特权礼包",
+				"giftIntro": "领取方式：游戏主界面-右上角菜单下拉设置-兑换礼包-输入礼包码",
+				"giftContent": [
+					"礼包内容：金币x30000，技能锁x2，中级升星石x5"],
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/26/37/6/864f7052d569463684d7a76ba9018653_tmb_220x200.png",
+				"name": "弹弹岛2"
+			}, {
+				"id": "15c0d1d9-d13f-4945-8821-57113a8a9830",
+				"giftId": "55e2c677-64ca-449c-8fc2-1aadee86de12",
+				"giftName": " 荣誉礼包",
+				"giftIntro": "使用方法：进入游戏在主页点击【活动】，在礼包领取界面输入兑换码后点击兑换(兑换码区分大小写)，验证成功后即可收取礼包内容。",
+				"giftContent": [
+					"礼包内容：荣誉碎片*288，雷管*5"],
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/19/37/6/c2874078ed6b43b2b96c4822a0673ac1_tmb_220x200.png",
+				"name": "冒险与挖矿"
+			}, {
+				"id": "45953ad7-2371-4432-b34f-0cdf07db3336",
+				"giftId": "f63e8ae3-90ac-42bf-8ca2-49072f86e253",
+				"giftName": "浪漫礼包",
+				"giftIntro": "兑换方式：点击头像-右上角设置-兑换码，输入正确兑换码领取奖励。",
+				"giftContent": [
+					"礼包内容：金币*6666，体力*20，行动力*30，草莓*3，焦糖酱*3，神奇染料*1，高光染料*2"],
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/30/37/6/f2c5916330bb4e10a2c30f428f91f7da_tmb_220x200.png",
+				"name": "夏目的美丽日记"
+			}, {
+				"id": "0d14a9bd-e257-4567-b8d1-7e458518cece",
+				"giftId": "09673129-1b2d-4344-a2e3-203c2972f62d",
+				"giftName": "新手礼包",
+				"giftIntro": "礼包兑换方式：点击精彩活动，选择礼包兑换，输入礼包兑换码即可",
+				"giftContent": [
+					"礼包内容：金币*58888，钻石*30，招募令*3，战役连战令*8"],
+				"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/9/2/37/6/6e54bc433ee14d4c86602423042a9ce4_tmb_220x200.jpg",
+				"name": "校花的贴身高手"
+			}],
+			"hotClubItems": null
+		}]
+	}
+}

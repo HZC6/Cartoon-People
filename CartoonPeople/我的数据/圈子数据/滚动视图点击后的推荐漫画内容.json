@@ -1,0 +1,98 @@
+{
+  
+    "mangas": [
+      {
+        "mangaName": "阴阳刀",
+        "mangaCoverimageUrl": "http://mhfm4.tel.cdndm5.com/9/8171/8171.jpg",
+        "mangaId": 8171,
+        "mangaAuthor": "かまたきみこ",
+        "mangaTheme": "少年热血",
+        "showType": 0,
+        "mangaIsOver": 0
+      },
+      {
+        "mangaName": "阴阳路",
+        "mangaCoverimageUrl": "http://mhfm7.tel.cdndm5.com/6/5389/5389.jpg",
+        "mangaId": 5389,
+        "mangaAuthor": "米奇",
+        "mangaTheme": "恐怖灵异",
+        "showType": 0,
+        "mangaIsOver": 1
+      },
+      {
+        "mangaName": "我和天师有个约会",
+        "mangaCoverimageUrl": "http://mhfm5.tel.cdndm5.com/22/21074/20160830102038_630x840.jpg",
+        "mangaId": 21074,
+        "mangaAuthor": "雪晴,瑛麒动漫",
+        "mangaTheme": "少女爱情",
+        "showType": 0,
+        "mangaIsOver": 0
+      },
+      {
+        "mangaName": "神话战线",
+        "mangaCoverimageUrl": "http://mhfm9.tel.cdndm5.com/32/31177/20160902130208_630x840.jpg",
+        "mangaId": 31177,
+        "mangaAuthor": "天上空，瑛麒动漫",
+        "mangaTheme": "少年热血|武侠格斗",
+        "showType": 0,
+        "mangaIsOver": 0
+      },
+      {
+        "mangaName": "尼洛亚-NIRAYA-",
+        "mangaCoverimageUrl": "http://mhfm7.tel.cdndm5.com/22/21669/20160426175740_630x840.jpg",
+        "mangaId": 21669,
+        "mangaAuthor": "心一，瑛麒动漫",
+        "mangaTheme": "少年热血",
+        "showType": 0,
+        "mangaIsOver": 0
+      },
+      {
+        "mangaName": "Bloody Girl",
+        "mangaCoverimageUrl": "http://mhfm5.tel.cdndm5.com/22/21077/20160829141946_630x840.jpg",
+        "mangaId": 21077,
+        "mangaAuthor": "牛佬,瑛麒动漫",
+        "mangaTheme": "少年热血",
+        "showType": 0,
+        "mangaIsOver": 0
+      },
+      {
+        "mangaName": "阴阳大战记",
+        "mangaCoverimageUrl": "http://mhfm3.tel.cdndm5.com/4/3147/3147_c.jpg",
+        "mangaId": 3147,
+        "mangaAuthor": "海堂博行",
+        "mangaTheme": "恐怖灵异",
+        "showType": 0,
+        "mangaIsOver": 1
+      },
+      {
+        "mangaName": "月印之阴阳侍",
+        "mangaCoverimageUrl": "http://mhfm7.tel.cdndm5.com/11/10868/10868_c.jpg",
+        "mangaId": 10868,
+        "mangaAuthor": "マサル ",
+        "mangaTheme": "少年热血|恐怖灵异",
+        "showType": 0,
+        "mangaIsOver": 1
+      },
+      {
+        "mangaName": "阴阳师-玉手匣",
+        "mangaCoverimageUrl": "http://mhfm3.tel.cdndm5.com/15/14866/14866_c.jpg",
+        "mangaId": 14866,
+        "mangaAuthor": "冈野玲子,梦枕獏",
+        "mangaTheme": "科幻魔幻",
+        "showType": 0,
+        "mangaIsOver": 0
+      },
+      {
+        "mangaName": "妖宿山",
+        "mangaCoverimageUrl": "http://mhfm9.tel.cdndm5.com/24/23889/20160704131733_630x840.jpg",
+        "mangaId": 23889,
+        "mangaAuthor": "名动漫",
+        "mangaTheme": "少年热血",
+        "showType": 0,
+        "mangaIsOver": 0
+      }
+    ],
+    "interstitialMangas": null,
+    "version": "21445636088400640000000"
+  
+}

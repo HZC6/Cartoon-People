@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9059" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9049"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="cell" rowHeight="96" id="KGk-i7-Jjw" customClass="ScrollTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="100"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="414" height="99"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="默认头像" translatesAutoresizingMaskIntoConstraints="NO" id="OOc-QM-n1O">
+                        <rect key="frame" x="8" y="8" width="40" height="40"/>
+                        <animations/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="40" id="RpY-o8-0Ld"/>
+                            <constraint firstAttribute="height" constant="40" id="ZOp-99-3ZH"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="晓夜幻羽" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OXN-SS-tws">
+                        <rect key="frame" x="55" y="8" width="56" height="21"/>
+                        <animations/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="21" id="WfE-71-qhP"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="e4W-uf-KKo">
+                        <rect key="frame" x="356" y="13" width="25" height="25"/>
+                        <animations/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="25" id="FIs-cA-04I"/>
+                            <constraint firstAttribute="height" constant="25" id="X8P-jG-Y1d"/>
+                        </constraints>
+                        <state key="normal" image="点赞"/>
+                        <state key="selected" image="点赞-高亮"/>
+                        <connections>
+                            <action selector="zanBtnAction:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="tKH-Ta-cFD"/>
+                        </connections>
+                    </button>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="16" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YKm-hN-9KY">
+                        <rect key="frame" x="383" y="17" width="16" height="17"/>
+                        <animations/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="为毛大哥你倒着看" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gX6-Rd-IXg">
+                        <rect key="frame" x="55" y="56" width="351" height="39"/>
+                        <animations/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" red="0.29803922770000002" green="0.29803922770000002" blue="0.29803922770000002" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="04-27 23：57" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="liB-zF-TKd">
+                        <rect key="frame" x="55" y="33" width="80" height="21"/>
+                        <animations/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="21" id="Jju-2k-7Iq"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <color key="textColor" red="0.7019608021" green="0.7019608021" blue="0.7019608021" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <animations/>
+                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="YKm-hN-9KY" secondAttribute="trailing" constant="15" id="33Y-D4-ifr"/>
+                    <constraint firstAttribute="bottom" secondItem="gX6-Rd-IXg" secondAttribute="bottom" constant="4" id="3Xh-fr-AId"/>
+                    <constraint firstItem="OOc-QM-n1O" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="8W2-Ae-NO9"/>
+                    <constraint firstAttribute="trailing" secondItem="gX6-Rd-IXg" secondAttribute="trailing" constant="8" id="C4W-4r-zO2"/>
+                    <constraint firstItem="gX6-Rd-IXg" firstAttribute="top" secondItem="liB-zF-TKd" secondAttribute="bottom" constant="2" id="WIK-qF-Efn"/>
+                    <constraint firstItem="YKm-hN-9KY" firstAttribute="leading" secondItem="e4W-uf-KKo" secondAttribute="trailing" constant="2" id="ZQD-Vr-SZA"/>
+                    <constraint firstItem="YKm-hN-9KY" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="17" id="dTa-9T-61g"/>
+                    <constraint firstItem="OXN-SS-tws" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="e6J-wK-1kY"/>
+                    <constraint firstItem="OOc-QM-n1O" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="f7y-dX-RaY"/>
+                    <constraint firstItem="OXN-SS-tws" firstAttribute="leading" secondItem="OOc-QM-n1O" secondAttribute="trailing" constant="7" id="ljz-xh-4y9"/>
+                    <constraint firstItem="liB-zF-TKd" firstAttribute="leading" secondItem="OOc-QM-n1O" secondAttribute="trailing" constant="7" id="nBT-8l-5Fy"/>
+                    <constraint firstItem="e4W-uf-KKo" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="13" id="nuz-Gh-4hC"/>
+                    <constraint firstItem="gX6-Rd-IXg" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="55" id="oJl-1o-h58"/>
+                    <constraint firstItem="liB-zF-TKd" firstAttribute="top" secondItem="OXN-SS-tws" secondAttribute="bottom" constant="4" id="u9o-yg-oYd"/>
+                </constraints>
+            </tableViewCellContentView>
+            <animations/>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+            <connections>
+                <outlet property="contentLabel" destination="gX6-Rd-IXg" id="tnB-iT-jOb"/>
+                <outlet property="dateLabel" destination="liB-zF-TKd" id="BIm-OP-IGQ"/>
+                <outlet property="userImg" destination="OOc-QM-n1O" id="BEd-Iu-Tgd"/>
+                <outlet property="userName" destination="OXN-SS-tws" id="vNx-sr-9bI"/>
+                <outlet property="zanNumberLabel" destination="YKm-hN-9KY" id="z0c-Lx-FO9"/>
+            </connections>
+            <point key="canvasLocation" x="67" y="166"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="点赞" width="44" height="44"/>
+        <image name="点赞-高亮" width="44" height="44"/>
+        <image name="默认头像" width="150" height="150"/>
+    </resources>
+</document>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="15G1004" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="IqU-Zr-VSL">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Base Navigation Controller-->
+        <scene sceneID="Nan-sZ-x9I">
+            <objects>
+                <navigationController id="IqU-Zr-VSL" customClass="BaseNavigationController" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="bZx-IZ-roT">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="Kzi-54-aJH" kind="relationship" relationship="rootViewController" id="yPu-7A-WXX"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="CL4-H7-znG" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-799" y="262"/>
+        </scene>
+        <!--首页-->
+        <scene sceneID="2Nm-Up-ClM">
+            <objects>
+                <viewController id="Kzi-54-aJH" customClass="ComicStoreViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="IrE-TO-9bl"/>
+                        <viewControllerLayoutGuide type="bottom" id="2CR-tj-Eds"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="nlV-NA-V8a">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="1" green="0.80000001190000003" blue="0.40000000600000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="首页" id="ulR-sb-NnE">
+                        <barButtonItem key="rightBarButtonItem" image="搜索" id="I53-rc-PsC">
+                            <inset key="imageInsets" minX="10" minY="2" maxX="0.0" maxY="8"/>
+                            <connections>
+                                <action selector="SearchAction:" destination="Kzi-54-aJH" id="bSA-jS-fTF"/>
+                                <segue destination="Lhy-xK-NaA" kind="push" id="U2d-Oc-n5u"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="eVa-04-9mj" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="82" y="293"/>
+        </scene>
+        <!--Search View Controller-->
+        <scene sceneID="Zbr-jJ-GMf">
+            <objects>
+                <viewController id="Lhy-xK-NaA" customClass="SearchViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="VBQ-fk-kq0"/>
+                        <viewControllerLayoutGuide type="bottom" id="gud-qE-DHS"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Z5c-Kp-rag">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="9GX-Nz-v0K"/>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="414" height="736"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="bZG-Lu-gNE" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="298" y="413"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="搜索" width="38" height="38"/>
+    </resources>
+</document>

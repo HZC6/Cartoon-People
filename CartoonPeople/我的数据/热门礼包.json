@@ -1,0 +1,97 @@
+{
+	"response": {
+		"tag": [
+			"换装",
+			"男神",
+			"恋爱"],
+		"clubId": "b57b75ae-610e-4ae1-be71-5b2939138a7a",
+		"clubName": "高能游戏圈",
+		"clubPosts": [{
+			"postName": "作为一名从冒挖开服就玩过的老司机的感想",
+			"postId": "15153044-65d0-4022-b4d0-5e50952e7b9c"
+		}, {
+			"postName": "《弹弹岛2》暑假欢乐礼包\r\n活动时间:\r\n2016年8月1日-8月31日\r\n活动内容：\r\n1.\t加入“漫画人-《弹弹岛2》”官方QQ群181754030。找到群主“漫画人游戏”即可获得《弹弹岛2》暑假欢乐礼包*1。\r\n2.\t礼包内含：金币*30000，L1防御宝石*2，宠物蛋壳*2，低级经验宠物蛋*2。\r\n活动规则：\r\n1.\t最新版本用户可以直接在主页右上角进入游戏中心，在本游戏专题页面免费领取礼包！\r\n2.\t同一QQ号只可领取一次，数量有限，先到先得。\r\n3.\t同类型礼包码每个角色只可以使用一次。\r\n4.\t礼包码只可在漫画人平台中下载的《弹弹岛2》安装包中使用。\r\n5.\t礼包码请向“漫画人-《弹弹岛2》”QQ群（181754030）群主“漫画人游戏”领取。\r\n6.\t礼包码使用方法：进游戏主界面-左侧设置-兑换礼包-输入礼包码点击兑换。\r\n更多精彩请关注“漫画人—《弹弹岛2》”QQ群181754030！！！",
+			"postId": "a50be16d-3320-40c7-bcde-2d7823faa182"
+		}, {
+			"postName": "大家好，我是新来的",
+			"postId": "7bbd52ed-e995-4736-8992-52424fb655f4"
+		}],
+		"clubTotalMembers": 2992,
+		"cover": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/a7b3f056700f41299a9c75fcfa4aa7e9_tmb_750x370.jpg",
+		"downPath": " http://tel.down.manhuaren.com/android/game/xmdmlrj/yiqi-xmdmlrj-16-09-07.apk",
+		"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/57d3baa224d949029240e6fab5d3c41b_tmb_220x200.png",
+		"id": "45953ad7-2371-4432-b34f-0cdf07db3336",
+		"intro": "英雄互娱首款暖心恋爱换装手游《夏目的美丽日记》！秉承日系赛璐璐画风，首创恋爱约会模式，独有情侣换装CP感爆棚！千面男主暖心邂逅，牵手谱写甜蜜恋曲；知名声优倾情加盟，温柔发声诉说属于你的我的初恋；更有绝不撞衫的各色搭配，开启多样化专属衣柜。华丽蜕变化身公主，你值得被疼爱。",
+		"joinNum": 5000,
+		"category": "模拟养成",
+		"name": "夏目的美丽日记",
+		"packageName": "com.dddwan.summer.yingxiong",
+		"recommendedGame": [{
+			"tag": [
+				"3D卡牌RPG"],
+			"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/9/6/37/6/edd48c3eaa53494fb4a886904b0704af_tmb_220x200.jpg",
+			"id": "0d14a9bd-e257-4567-b8d1-7e458518cece",
+			"intro": "《校花的贴身高手》是根据起点白金作家鱼人二代的同名人气小说改编的校园恋爱养成手游，不仅原汁原味还原小说中的经典剧情与人物，更首创爆衣技能大招，热辣少女养成系统、新奇热血的玩法，搭载精致的二次元日系唯美画风，带领玩家走进暧昧纠缠的青春轻喜剧，是不可不玩的校园修真回合大作!",
+			"joinNum": 3500,
+			"name": "校花的贴身高手",
+			"downPath": "http://tel.down.manhuaren.com/android/game/xhdtsgs/yiqi-xhdtsgs-16-09-01.apk",
+			"packageName": "com.yhgame.xh.huashi",
+			"jumpType": 0,
+			"jumpUrl": ""
+		}, {
+			"tag": [
+				"放置类RPG"],
+			"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/4/37/6/3311fec9061f40d0b777311abb8fd3ab_tmb_220x200.png",
+			"id": "15c0d1d9-d13f-4945-8821-57113a8a9830",
+			"intro": "《冒险与挖矿》是由角川书店授权的正版手游。其怀旧像素画面风格，海量动漫角入驻，休闲挂机放置玩法，受到广大玩家的好评，游戏曾4次被App Store推荐至首页。除此之外英雄乱战、冒险闯关、地心挖矿等诸多独具创意且风格迥异的游戏玩法，更让玩家在游戏过程中获得绝佳的游戏体验。",
+			"joinNum": 31000,
+			"name": "冒险与挖矿",
+			"downPath": "http://tel.down.manhuaren.com/android/game/mxywk/yiqi-mxywk-16-07-07.apk",
+			"packageName": "com.aam.yxhy",
+			"jumpType": 0,
+			"jumpUrl": ""
+		}, {
+			"tag": [
+				"模拟养成"],
+			"icon": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/57d3baa224d949029240e6fab5d3c41b_tmb_220x200.png",
+			"id": "45953ad7-2371-4432-b34f-0cdf07db3336",
+			"intro": "英雄互娱首款暖心恋爱换装手游《夏目的美丽日记》！秉承日系赛璐璐画风，首创恋爱约会模式，独有情侣换装CP感爆棚！千面男主暖心邂逅，牵手谱写甜蜜恋曲；知名声优倾情加盟，温柔发声诉说属于你的我的初恋；更有绝不撞衫的各色搭配，开启多样化专属衣柜。华丽蜕变化身公主，你值得被疼爱。",
+			"joinNum": 5000,
+			"name": "夏目的美丽日记",
+			"downPath": " http://tel.down.manhuaren.com/android/game/xmdmlrj/yiqi-xmdmlrj-16-09-07.apk",
+			"packageName": "com.dddwan.summer.yingxiong",
+			"jumpType": 0,
+			"jumpUrl": ""
+		}],
+		"relatedGifts": [{
+			"giftContent": [
+				"礼包内容：金币*6666，体力*20，行动力*30，草莓*3，焦糖酱*3，神奇染料*1，高光染料*2"],
+			"giftId": "f63e8ae3-90ac-42bf-8ca2-49072f86e253",
+			"giftName": "浪漫礼包",
+			"giftSurplus": "7",
+			"id": null
+		}],
+		"screenshots": [{
+			"smallPic": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/3becdaebbe554bb2ae9e529d6b4ae6af_tmb_540x540.jpg",
+			"pic": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/3becdaebbe554bb2ae9e529d6b4ae6af.jpg"
+		}, {
+			"smallPic": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/a5522e3eecf1478196a47bc80e8c347f_tmb_540x540.jpg",
+			"pic": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/a5522e3eecf1478196a47bc80e8c347f.jpg"
+		}, {
+			"smallPic": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/92150652784242eabcf87bbd4e09707f_tmb_540x540.jpg",
+			"pic": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/92150652784242eabcf87bbd4e09707f.jpg"
+		}, {
+			"smallPic": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/99e6fa61354946fcb44a241a2a7a2cfe_tmb_540x540.jpg",
+			"pic": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/99e6fa61354946fcb44a241a2a7a2cfe.jpg"
+		}, {
+			"smallPic": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/bf3ed557222242f88889b088eab8d186_tmb_540x540.jpg",
+			"pic": "http://manhua1028.61-174-50-140.cdndm5.com/userfile/6/quanzi/2016/8/29/37/6/bf3ed557222242f88889b088eab8d186.jpg"
+		}],
+		"watchers": [],
+		"watchingCount": 0,
+		"customerServiceQQ": "2379395643",
+		"groupQQ": "574330565",
+		"jumpType": 0,
+		"jumpUrl": ""
+	}
+}

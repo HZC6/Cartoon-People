@@ -1,0 +1,50 @@
+{
+	"response": {
+		"mangaSubcategory": [{
+			"subcategoryName": "港台",
+			"subcategoryId": 35,
+			"subcategoryImgUrl": "http://mhfm7.tel.cdndm5.com/tag/category/gt.jpg",
+			"categoryType": 3,
+			"skipType": 5,
+			"skipParam": {
+				"category": 3,
+				"subcategory": 35
+			},
+			"isHideInSearch": 0
+		}, {
+			"subcategoryName": "日韩",
+			"subcategoryId": 36,
+			"subcategoryImgUrl": "http://mhfm7.tel.cdndm5.com/tag/category/rh.jpg",
+			"categoryType": 3,
+			"skipType": 5,
+			"skipParam": {
+				"category": 3,
+				"subcategory": 36
+			},
+			"isHideInSearch": 0
+		}, {
+			"subcategoryName": "大陆",
+			"subcategoryId": 37,
+			"subcategoryImgUrl": "http://mhfm7.tel.cdndm5.com/tag/category/zg.jpg",
+			"categoryType": 3,
+			"skipType": 5,
+			"skipParam": {
+				"category": 3,
+				"subcategory": 37
+			},
+			"isHideInSearch": 0
+		}, {
+			"subcategoryName": "欧美",
+			"subcategoryId": 52,
+			"subcategoryImgUrl": "http://mhfm7.tel.cdndm5.com/tag/category/om.jpg",
+			"categoryType": 3,
+			"skipType": 5,
+			"skipParam": {
+				"category": 3,
+				"subcategory": 52
+			},
+			"isHideInSearch": 0
+		}],
+		"version": "111111111111111111111"
+	}
+}

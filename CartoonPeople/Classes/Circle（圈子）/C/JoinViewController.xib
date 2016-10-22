@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15A284" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="JoinViewController">
+            <connections>
+                <outlet property="view" destination="cvT-U6-ibD" id="3R0-1K-AqR"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="cvT-U6-ibD">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="提示" translatesAutoresizingMaskIntoConstraints="NO" id="eIT-69-G6T">
+                    <rect key="frame" x="87" y="221" width="240" height="293"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="240" id="cpC-BR-Tba"/>
+                        <constraint firstAttribute="height" constant="293" id="t8w-O8-38U"/>
+                    </constraints>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ogw-Nv-qZZ">
+                    <rect key="frame" x="118" y="234" width="198" height="69"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="198" id="9RF-p1-hqp"/>
+                        <constraint firstAttribute="height" constant="69" id="xZQ-LL-euU"/>
+                    </constraints>
+                    <connections>
+                        <action selector="siginBtnAction:" destination="-1" eventType="touchUpInside" id="zcA-yZ-a9S"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="eIT-69-G6T" firstAttribute="centerX" secondItem="cvT-U6-ibD" secondAttribute="centerX" id="IQ3-Aw-uRR"/>
+                <constraint firstItem="ogw-Nv-qZZ" firstAttribute="leading" secondItem="cvT-U6-ibD" secondAttribute="leading" constant="116" id="Tdv-4y-E9o"/>
+                <constraint firstItem="eIT-69-G6T" firstAttribute="centerY" secondItem="cvT-U6-ibD" secondAttribute="centerY" id="UmL-7m-11G"/>
+                <constraint firstItem="ogw-Nv-qZZ" firstAttribute="top" secondItem="cvT-U6-ibD" secondAttribute="top" constant="221" id="a9k-hT-4pE"/>
+                <constraint firstItem="ogw-Nv-qZZ" firstAttribute="centerY" secondItem="cvT-U6-ibD" secondAttribute="centerY" constant="-100" id="dRv-YL-RKb"/>
+                <constraint firstItem="ogw-Nv-qZZ" firstAttribute="centerX" secondItem="cvT-U6-ibD" secondAttribute="centerX" constant="10" id="eWu-zu-rvb"/>
+                <constraint firstAttribute="trailing" secondItem="ogw-Nv-qZZ" secondAttribute="trailing" constant="100" id="qZ6-nU-KCY"/>
+            </constraints>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="Tdv-4y-E9o"/>
+                    <exclude reference="a9k-hT-4pE"/>
+                    <exclude reference="qZ6-nU-KCY"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="439" y="285"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="提示" width="292" height="320"/>
+    </resources>
+</document>

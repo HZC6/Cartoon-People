@@ -1,0 +1,39 @@
+{
+	"response": {
+		"mangaSubcategory": [{
+			"subcategoryName": "少男",
+			"subcategoryId": 1,
+			"subcategoryImgUrl": "http://mhfm7.tel.cdndm5.com/tag/category/snan.jpg",
+			"categoryType": 2,
+			"skipType": 5,
+			"skipParam": {
+				"category": 2,
+				"subcategory": 1
+			},
+			"isHideInSearch": 0
+		}, {
+			"subcategoryName": "少女",
+			"subcategoryId": 2,
+			"subcategoryImgUrl": "http://mhfm7.tel.cdndm5.com/tag/category/snv.jpg",
+			"categoryType": 2,
+			"skipType": 5,
+			"skipParam": {
+				"category": 2,
+				"subcategory": 2
+			},
+			"isHideInSearch": 0
+		}, {
+			"subcategoryName": "青年",
+			"subcategoryId": 3,
+			"subcategoryImgUrl": "http://mhfm7.tel.cdndm5.com/tag/category/qn.jpg",
+			"categoryType": 2,
+			"skipType": 5,
+			"skipParam": {
+				"category": 2,
+				"subcategory": 3
+			},
+			"isHideInSearch": 0
+		}],
+		"version": "11111111111111111111"
+	}
+}

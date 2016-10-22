@@ -1,0 +1,45 @@
+{
+	"response": {
+		"banners": [{
+			"id": "0d14a9bd-e257-4567-b8d1-7e458518cece",
+			"url": "",
+			"type": 5,
+			"title": "校园爆衣少女，火爆开启双修！",
+			"imgUrl": "http://by140.tel.cdndm.com/37/2016/9/6/9575862f055849fb.jpg",
+			"showDurationMillisecond": 2500,
+			"bannerId": 557
+		}, {
+			"id": "45953ad7-2371-4432-b34f-0cdf07db3336",
+			"url": "",
+			"type": 5,
+			"title": "暖心恋爱换装手游，你值得被疼爱！",
+			"imgUrl": "http://by140.tel.cdndm.com/37/2016/9/6/9d99988b48fc4710.jpg",
+			"showDurationMillisecond": 2500,
+			"bannerId": 549
+		}, {
+			"id": "28da0643-55bb-4966-829f-4327ccfdd2a3",
+			"url": "",
+			"type": 5,
+			"title": "",
+			"imgUrl": "http://by140.tel.cdndm.com/37/2016/9/1/cab9178380d741e8.jpg",
+			"showDurationMillisecond": 2500,
+			"bannerId": 475
+		}, {
+			"id": "15c0d1d9-d13f-4945-8821-57113a8a9830",
+			"url": "",
+			"type": 5,
+			"title": "最电竞休闲手游，已登陆漫画人！",
+			"imgUrl": "http://by140.tel.cdndm.com/37/2016/9/1/d4fe2241251a45d2.jpg",
+			"showDurationMillisecond": 2500,
+			"bannerId": 435
+		}, {
+			"id": "d8112541-4502-446d-884a-32cef3367128",
+			"url": "",
+			"type": 5,
+			"title": "今夏首选横版弹射手游",
+			"imgUrl": "http://by140.tel.cdndm.com/37/2016/9/1/a4656c2a0a1b4b72.jpg",
+			"showDurationMillisecond": 2500,
+			"bannerId": 516
+		}]
+	}
+}

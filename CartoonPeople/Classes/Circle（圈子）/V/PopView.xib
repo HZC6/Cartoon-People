@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9059" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9049"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="tgV-1u-dP7" customClass="PopView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="341"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0jq-Su-K7L" userLabel="分割线2">
+                    <rect key="frame" x="0.0" y="42" width="375" height="1"/>
+                    <animations/>
+                    <color key="backgroundColor" red="0.7019608021" green="0.7019608021" blue="0.7019608021" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="1" id="JwO-bX-Us1"/>
+                        <constraint firstAttribute="height" constant="1" id="VTX-nl-1ZI"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AZf-8v-UiS">
+                    <rect key="frame" x="0.0" y="0.0" width="188" height="35"/>
+                    <animations/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="35" id="Wt9-qJ-zdY"/>
+                        <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="35" id="mY6-pH-Cyj"/>
+                    </constraints>
+                    <state key="normal" title="连载（话）">
+                        <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="serialBtnAction:" destination="tgV-1u-dP7" eventType="touchUpInside" id="40P-tc-2AQ"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ltr-pa-Nrj">
+                    <rect key="frame" x="188" y="0.0" width="187" height="35"/>
+                    <animations/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="35" id="bkg-Yz-RHt"/>
+                        <constraint firstAttribute="height" constant="35" id="vfo-l5-wdn"/>
+                    </constraints>
+                    <state key="normal" title="番外">
+                        <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="otherBtnAction:" destination="tgV-1u-dP7" eventType="touchUpInside" id="sOe-wv-6fS"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kLV-8f-qwi">
+                    <rect key="frame" x="0.0" y="51" width="375" height="290"/>
+                    <animations/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="156" id="wxe-4I-sBh"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="wxe-4I-sBh"/>
+                        </mask>
+                    </variation>
+                </view>
+            </subviews>
+            <animations/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="kLV-8f-qwi" firstAttribute="leading" secondItem="tgV-1u-dP7" secondAttribute="leading" id="4FA-Zz-OhO"/>
+                <constraint firstItem="kLV-8f-qwi" firstAttribute="top" secondItem="0jq-Su-K7L" secondAttribute="bottom" constant="8" id="4wR-mZ-y4u"/>
+                <constraint firstAttribute="bottom" secondItem="kLV-8f-qwi" secondAttribute="bottom" id="Acz-fx-sLY"/>
+                <constraint firstItem="0jq-Su-K7L" firstAttribute="top" secondItem="AZf-8v-UiS" secondAttribute="bottom" constant="7" id="BEO-pc-0KC"/>
+                <constraint firstAttribute="trailing" secondItem="ltr-pa-Nrj" secondAttribute="trailing" id="Ecj-0e-zTQ"/>
+                <constraint firstItem="ltr-pa-Nrj" firstAttribute="leading" secondItem="AZf-8v-UiS" secondAttribute="trailing" id="RQ0-5v-qPJ"/>
+                <constraint firstAttribute="trailing" secondItem="kLV-8f-qwi" secondAttribute="trailing" id="aP1-Y3-Dwk"/>
+                <constraint firstItem="AZf-8v-UiS" firstAttribute="width" secondItem="ltr-pa-Nrj" secondAttribute="width" id="dzw-ZL-RcI"/>
+                <constraint firstItem="0jq-Su-K7L" firstAttribute="leading" secondItem="tgV-1u-dP7" secondAttribute="leading" id="lOS-0D-krV"/>
+                <constraint firstItem="0jq-Su-K7L" firstAttribute="top" secondItem="ltr-pa-Nrj" secondAttribute="bottom" constant="7" id="rBa-Gg-GsB"/>
+                <constraint firstAttribute="trailing" secondItem="0jq-Su-K7L" secondAttribute="trailing" id="rbv-Du-NWB"/>
+                <constraint firstItem="AZf-8v-UiS" firstAttribute="leading" secondItem="tgV-1u-dP7" secondAttribute="leading" id="sjF-nJ-Qv4"/>
+                <constraint firstItem="ltr-pa-Nrj" firstAttribute="top" secondItem="tgV-1u-dP7" secondAttribute="top" id="ta4-7M-sqz"/>
+                <constraint firstItem="AZf-8v-UiS" firstAttribute="top" secondItem="tgV-1u-dP7" secondAttribute="top" id="uve-z6-1uO"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="otherBtn" destination="ltr-pa-Nrj" id="5yY-44-VEh"/>
+                <outlet property="scontentView" destination="kLV-8f-qwi" id="yso-Ga-GkG"/>
+                <outlet property="serialBtn" destination="AZf-8v-UiS" id="QSk-gM-zIk"/>
+            </connections>
+            <point key="canvasLocation" x="286.5" y="79.5"/>
+        </view>
+    </objects>
+</document>

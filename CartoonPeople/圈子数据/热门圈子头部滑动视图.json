@@ -1,0 +1,43 @@
+{
+		"banners": [{
+			"id": "",
+			"url": "http://www.manhuaren.com/game-xhdtsgs/?s=3",
+			"type": 0,
+			"title": "校园爆衣少女，火爆开启双修！",
+			"imgUrl": "http://by122.us.cdndm.com/37/2016/9/2/0d7934b3635d413e.jpg",
+			"showDurationMillisecond": 2500,
+			"bannerId": 555
+		}, {
+			"id": "21771",
+			"url": "",
+			"type": 1,
+			"title": "《宇久纷华·战国墨者异传》更新至29节",
+			"imgUrl": "http://mhfm7.us.cdndm5.com/22/21771/20160405135750_960x420.jpg",
+			"showDurationMillisecond": 2500,
+			"bannerId": 0
+		}, {
+			"id": "21074",
+			"url": "",
+			"type": 1,
+			"title": "《我和天师有个约会》更新至停更公告节",
+			"imgUrl": "http://mhfm7.us.cdndm5.com/22/21074/20160830102038_960x420.jpg",
+			"showDurationMillisecond": 2500,
+			"bannerId": 0
+		}, {
+			"id": "21334",
+			"url": "",
+			"type": 1,
+			"title": "《苏生战铳》更新至前景回顾节",
+			"imgUrl": "http://mhfm8.us.cdndm5.com/22/21334/20160815102818_720x315.jpg",
+			"showDurationMillisecond": 2500,
+			"bannerId": 0
+		}, {
+			"id": "31177",
+			"url": "",
+			"type": 1,
+			"title": "《神话战线》更新至4节",
+			"imgUrl": "http://mhfm6.us.cdndm5.com/32/31177/20160902130208_960x420.jpg",
+			"showDurationMillisecond": 2500,
+			"bannerId": 0
+		}]
+	}

@@ -1,0 +1,726 @@
+{
+	"response": {
+		"limit": 9,
+		"mangas": [{
+			"mangaId": 31417,
+			"mangaName": "漫天二十八列在前",
+			"mangaCoverimageUrl": "http://mhfm3.tel.cdndm5.com/32/31417/20160819161249_540x720.jpg",
+			"mangaAuthor": "摩元社",
+			"mangaNewestContent": "第4回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 20:17:38",
+			"mangaNewsectionId": 405389,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31274,
+			"mangaName": "勇者这么恶质没问题吗",
+			"mangaCoverimageUrl": "http://mhfm5.tel.cdndm5.com/32/31274/20160802202024_540x720.jpg",
+			"mangaAuthor": "日更计划,姚神",
+			"mangaNewestContent": "第11回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 20:17:05",
+			"mangaNewsectionId": 405387,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 29972,
+			"mangaName": "星耀学园",
+			"mangaCoverimageUrl": "http://mhfm7.tel.cdndm5.com/30/29972/20160723165651_540x720.jpg",
+			"mangaAuthor": "御村了",
+			"mangaNewestContent": "第13回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 20:16:39",
+			"mangaNewsectionId": 405385,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31401,
+			"mangaName": "夏洛特的道听途说",
+			"mangaCoverimageUrl": "http://mhfm1.tel.cdndm5.com/32/31401/20160812200056_630x840.jpg",
+			"mangaAuthor": "日更计划,沉底者",
+			"mangaNewestContent": "第4回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 20:16:13",
+			"mangaNewsectionId": 405383,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31170,
+			"mangaName": "天梯劝降学园",
+			"mangaCoverimageUrl": "http://mhfm6.tel.cdndm5.com/32/31170/20160728090653_540x720.jpg",
+			"mangaAuthor": "日更计划/Makxma",
+			"mangaNewestContent": "第12回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 20:15:42",
+			"mangaNewsectionId": 405381,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 23849,
+			"mangaName": "鱼生无趣",
+			"mangaCoverimageUrl": "http://mhfm7.tel.cdndm5.com/24/23849/20160630132019_630x840.jpg",
+			"mangaAuthor": "心灵捕手yu",
+			"mangaNewestContent": "第48回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 20:14:34",
+			"mangaNewsectionId": 405379,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 23778,
+			"mangaName": "喵小萌",
+			"mangaCoverimageUrl": "http://mhfm4.tel.cdndm5.com/24/23778/20160704164259_630x840.jpg",
+			"mangaAuthor": "喵小萌",
+			"mangaNewestContent": "第137回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 20:14:03",
+			"mangaNewsectionId": 405377,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 22827,
+			"mangaName": "篮球引力",
+			"mangaCoverimageUrl": "http://mhfm8.tel.cdndm5.com/23/22827/20160512165342_630x840.jpg",
+			"mangaAuthor": "南波万露",
+			"mangaNewestContent": "第132回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 20:12:53",
+			"mangaNewsectionId": 405373,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 23889,
+			"mangaName": "妖宿山",
+			"mangaCoverimageUrl": "http://mhfm9.tel.cdndm5.com/24/23889/20160704131733_630x840.jpg",
+			"mangaAuthor": "名动漫",
+			"mangaNewestContent": "第10回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 20:10:54",
+			"mangaNewsectionId": 405369,
+			"mangaIsOver": 0
+		},{
+			"mangaId": 23060,
+			"mangaName": "Hobgoblin 魔女和妖精",
+			"mangaCoverimageUrl": "http://mhfm4.tel.cdndm5.com/24/23060/20160601114045_630x840_179.jpg",
+			"mangaAuthor": "つぼな",
+			"mangaNewestContent": "第5话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 20:04:28",
+			"mangaNewsectionId": 405368,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 306,
+			"mangaName": "Fate stay night",
+			"mangaCoverimageUrl": "http://mhfm2.tel.cdndm5.com/1/306/20150611140821_630x840_264.jpg",
+			"mangaAuthor": "山口祐司",
+			"mangaNewestContent": "外传：10",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 20:03:07",
+			"mangaNewsectionId": 405367,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 18030,
+			"mangaName": "菜花洋果子店的好工作",
+			"mangaCoverimageUrl": "http://mhfm6.tel.cdndm5.com/19/18030/20150424090235_630x840_153.jpg",
+			"mangaAuthor": "若木民喜 ",
+			"mangaNewestContent": "第63话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 19:57:46",
+			"mangaNewsectionId": 405366,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 21771,
+			"mangaName": "宇久纷华·战国墨者异传",
+			"mangaCoverimageUrl": "http://mhfm1.tel.cdndm5.com/22/21771/20160405135750_630x840.jpg",
+			"mangaAuthor": "黄俊维,瑛麒动漫",
+			"mangaNewestContent": "第29回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 17:37:37",
+			"mangaNewsectionId": 405364,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 17233,
+			"mangaName": "我的女子力在那女孩的胖次里",
+			"mangaCoverimageUrl": "http://mhfm2.tel.cdndm5.com/18/17233/20150116153558_630x840_150.jpg",
+			"mangaAuthor": "柚木凉太",
+			"mangaNewestContent": "EX：耶诞节番外篇",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 17:16:39",
+			"mangaNewsectionId": 405362,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 4686,
+			"mangaName": "神奇宝贝特別篇",
+			"mangaCoverimageUrl": "http://mhfm8.tel.cdndm5.com/5/4686/4686_h.jpg",
+			"mangaAuthor": "日下秀宪,山本智",
+			"mangaNewestContent": "ORAS20下",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 17:14:44",
+			"mangaNewsectionId": 405361,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31295,
+			"mangaName": "毒舌女孩",
+			"mangaCoverimageUrl": "http://mhfm2.tel.cdndm5.com/32/31295/20160804131315_630x840_136.jpg",
+			"mangaAuthor": "濑野反人",
+			"mangaNewestContent": "第1卷15话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 17:09:39",
+			"mangaNewsectionId": 405358,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 22667,
+			"mangaName": "对你情有独钟",
+			"mangaCoverimageUrl": "http://mhfm3.tel.cdndm5.com/23/22667/20160426233743_630x840_156.jpg",
+			"mangaAuthor": "Maria ",
+			"mangaNewestContent": "第3话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 16:58:03",
+			"mangaNewsectionId": 405357,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 6109,
+			"mangaName": "网球优等生",
+			"mangaCoverimageUrl": "http://mhfm1.tel.cdndm5.com/7/6109/20150423155136_630x840_170.jpg",
+			"mangaAuthor": "勝木光",
+			"mangaNewestContent": "第400话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 16:56:57",
+			"mangaNewsectionId": 405356,
+			"mangaIsOver": 0
+		},{
+			"mangaId": 22222,
+			"mangaName": "冻牌",
+			"mangaCoverimageUrl": "http://mhfm1.tel.cdndm5.com/23/22222/20160314143750_630x840_141.jpg",
+			"mangaAuthor": "志名坂高次",
+			"mangaNewestContent": "第25话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 16:54:31",
+			"mangaNewsectionId": 405354,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 13010,
+			"mangaName": "竞女",
+			"mangaCoverimageUrl": "http://mhfm3.tel.cdndm5.com/14/13010/13010_h.jpg",
+			"mangaAuthor": "空咏大智",
+			"mangaNewestContent": "第147话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 16:48:16",
+			"mangaNewsectionId": 405353,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 15705,
+			"mangaName": "I am…",
+			"mangaCoverimageUrl": "http://mhfm9.tel.cdndm5.com/16/15705/20150326090856_630x840_210.jpg",
+			"mangaAuthor": "增田英二",
+			"mangaNewestContent": "第174话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 16:47:05",
+			"mangaNewsectionId": 405352,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 20824,
+			"mangaName": "妄想高校教员森下",
+			"mangaCoverimageUrl": "http://mhfm5.tel.cdndm5.com/21/20824/20151102094224_450x600_91.jpg",
+			"mangaAuthor": "西渡槇",
+			"mangaNewestContent": "第29话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 16:42:46",
+			"mangaNewsectionId": 405350,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 23266,
+			"mangaName": "崩坏AI娘爱酱绝对不会告诉玩家的事实",
+			"mangaCoverimageUrl": "http://mhfm2.tel.cdndm5.com/24/23266/20160620111416_630x840.jpg",
+			"mangaAuthor": "哔叽",
+			"mangaNewestContent": "第12回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 16:35:23",
+			"mangaNewsectionId": 405349,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 8242,
+			"mangaName": "正义联盟",
+			"mangaCoverimageUrl": "http://mhfm3.tel.cdndm5.com/9/8242/8242_h.jpg",
+			"mangaAuthor": "DC",
+			"mangaNewestContent": "第52话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 15:47:43",
+			"mangaNewsectionId": 405347,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31478,
+			"mangaName": "公交男女爆笑漫画",
+			"mangaCoverimageUrl": "http://mhfm2.tel.cdndm5.com/32/31478/20160819164948_630x840.jpg",
+			"mangaAuthor": "博润通",
+			"mangaNewestContent": "第310回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 15:26:13",
+			"mangaNewsectionId": 405344,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 22807,
+			"mangaName": "有宠百科",
+			"mangaCoverimageUrl": "http://mhfm4.tel.cdndm5.com/23/22807/20160629164835_630x840.jpg",
+			"mangaAuthor": "有宠君",
+			"mangaNewestContent": "第52回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 15:12:45",
+			"mangaNewsectionId": 405286,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 22923,
+			"mangaName": "正负联盟",
+			"mangaCoverimageUrl": "http://mhfm4.tel.cdndm5.com/23/22923/20160520130321_630x840.jpg",
+			"mangaAuthor": "文推社",
+			"mangaNewestContent": "第16回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 15:12:10",
+			"mangaNewsectionId": 405284,
+			"mangaIsOver": 0
+		},{
+			"mangaId": 19647,
+			"mangaName": "猪人居然是镇主夫什么的",
+			"mangaCoverimageUrl": "http://mhfm7.tel.cdndm5.com/20/19647/20151009100630_630x840_152.jpg",
+			"mangaAuthor": "高内优向",
+			"mangaNewestContent": "第3话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 15:00:07",
+			"mangaNewsectionId": 405281,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31286,
+			"mangaName": "拖稿的勇者",
+			"mangaCoverimageUrl": "http://mhfm9.tel.cdndm5.com/32/31286/20160803151003_630x840.jpg",
+			"mangaAuthor": "高能漫画",
+			"mangaNewestContent": "第12回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:59:25",
+			"mangaNewsectionId": 405279,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31696,
+			"mangaName": "黑暗行动",
+			"mangaCoverimageUrl": "http://mhfm2.tel.cdndm5.com/32/31696/20160905082443_540x720.jpg",
+			"mangaAuthor": "钢空",
+			"mangaNewestContent": "第2回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:58:43",
+			"mangaNewsectionId": 405277,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31670,
+			"mangaName": "平博士密码搞笑科普漫画",
+			"mangaCoverimageUrl": "http://mhfm5.tel.cdndm5.com/32/31670/20160901184217_630x840.jpg",
+			"mangaAuthor": "华文动漫",
+			"mangaNewestContent": "第3回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:51:44",
+			"mangaNewsectionId": 405275,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 22805,
+			"mangaName": "有宠日常",
+			"mangaCoverimageUrl": "http://mhfm4.tel.cdndm5.com/23/22805/20160629164811_630x840.jpg",
+			"mangaAuthor": "有宠君",
+			"mangaNewestContent": "第74回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:51:14",
+			"mangaNewsectionId": 405273,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 22151,
+			"mangaName": "囧鸡二三事",
+			"mangaCoverimageUrl": "http://mhfm6.tel.cdndm5.com/23/22151/20160308125634_630x840.jpg",
+			"mangaAuthor": "广州凡骜",
+			"mangaNewestContent": "第11回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:50:19",
+			"mangaNewsectionId": 405271,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 21885,
+			"mangaName": "狠西游",
+			"mangaCoverimageUrl": "http://mhfm5.tel.cdndm5.com/22/21885/20160306083322_180x240.jpg",
+			"mangaAuthor": "青草娱乐",
+			"mangaNewestContent": "第55回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:49:48",
+			"mangaNewsectionId": 405269,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 19566,
+			"mangaName": "美国正义联盟v4",
+			"mangaCoverimageUrl": "http://mhfm4.tel.cdndm5.com/20/19566/20150921142300_630x840_301.jpg",
+			"mangaAuthor": "DC Comics",
+			"mangaNewestContent": "第9话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:45:46",
+			"mangaNewsectionId": 405268,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 21424,
+			"mangaName": "阿土博之保护耕地",
+			"mangaCoverimageUrl": "http://mhfm6.tel.cdndm5.com/22/21424/20160106083929_630x840_204.jpg",
+			"mangaAuthor": "厦门地源网络科技有限公司",
+			"mangaNewestContent": "第35回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:45:35",
+			"mangaNewsectionId": 405266,
+			"mangaIsOver": 0
+		},{
+			"mangaId": 22517,
+			"mangaName": "『未』成熟",
+			"mangaCoverimageUrl": "http://mhfm3.tel.cdndm5.com/23/22517/20160411000610_630x840_133.jpg",
+			"mangaAuthor": "Maria ",
+			"mangaNewestContent": "第4话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:43:55",
+			"mangaNewsectionId": 405265,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 2133,
+			"mangaName": "绝对可爱Children",
+			"mangaCoverimageUrl": "http://mhfm1.tel.cdndm5.com/3/2133/20150402100940_630x840_257.jpg",
+			"mangaAuthor": "椎名高志",
+			"mangaNewestContent": "第454话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:42:12",
+			"mangaNewsectionId": 405264,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31335,
+			"mangaName": "重返地下城",
+			"mangaCoverimageUrl": "http://mhfm6.tel.cdndm5.com/32/31335/20160808162513_630x840.jpg",
+			"mangaAuthor": "A4漫业-鱼总",
+			"mangaNewestContent": "第15回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:42:11",
+			"mangaNewsectionId": 405262,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31338,
+			"mangaName": "这个猎人不太勇",
+			"mangaCoverimageUrl": "http://mhfm1.tel.cdndm5.com/32/31338/20160808163702_630x840.jpg",
+			"mangaAuthor": "A4漫业-饼函",
+			"mangaNewestContent": "第10回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:41:34",
+			"mangaNewsectionId": 405260,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 17855,
+			"mangaName": "恶魔禁域",
+			"mangaCoverimageUrl": "http://mhfm7.tel.cdndm5.com/18/17855/20150328084201_630x840_258.jpg",
+			"mangaAuthor": "吉辺あくろ ",
+			"mangaNewestContent": "第18话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:41:09",
+			"mangaNewsectionId": 405259,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31339,
+			"mangaName": "污托邦漂流记",
+			"mangaCoverimageUrl": "http://mhfm8.tel.cdndm5.com/32/31339/20160808163758_630x840.jpg",
+			"mangaAuthor": "杀生地藏",
+			"mangaNewestContent": "第6回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:40:11",
+			"mangaNewsectionId": 405257,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31465,
+			"mangaName": "您的委托我们接下了",
+			"mangaCoverimageUrl": "http://mhfm7.tel.cdndm5.com/32/31465/20160818172622_180x240.jpg",
+			"mangaAuthor": "粥总理",
+			"mangaNewestContent": "第4回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:39:49",
+			"mangaNewsectionId": 405255,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31348,
+			"mangaName": "芙娜旅馆",
+			"mangaCoverimageUrl": "http://mhfm3.tel.cdndm5.com/32/31348/20160809145217_630x840.jpg",
+			"mangaAuthor": "萌尽",
+			"mangaNewestContent": "第8回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:39:21",
+			"mangaNewsectionId": 405253,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31704,
+			"mangaName": "蔷薇战争",
+			"mangaCoverimageUrl": "http://mhfm8.tel.cdndm5.com/32/31704/20160905143755_180x240.jpg",
+			"mangaAuthor": "麻尾",
+			"mangaNewestContent": "第2回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:38:46",
+			"mangaNewsectionId": 405251,
+			"mangaIsOver": 0
+		},{
+			"mangaId": 10813,
+			"mangaName": "路人女主的养成方法",
+			"mangaCoverimageUrl": "http://mhfm9.tel.cdndm5.com/11/10813/10813_h.jpg",
+			"mangaAuthor": "守姬武士 ",
+			"mangaNewestContent": "第42话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 14:26:55",
+			"mangaNewsectionId": 405248,
+			"mangaIsOver": 1
+		}, {
+			"mangaId": 18658,
+			"mangaName": "少女三月强势出击",
+			"mangaCoverimageUrl": "http://mhfm8.tel.cdndm5.com/19/18658/20150620104543_630x840_160.jpg",
+			"mangaAuthor": "绀吉 ",
+			"mangaNewestContent": "第17话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 13:51:34",
+			"mangaNewsectionId": 405245,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 22124,
+			"mangaName": "超巨型机甲剑士学园",
+			"mangaCoverimageUrl": "http://mhfm8.tel.cdndm5.com/23/22124/20160305234750_630x840_215.jpg",
+			"mangaAuthor": "クール教信者 ",
+			"mangaNewestContent": "第3话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 13:50:10",
+			"mangaNewsectionId": 405244,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31234,
+			"mangaName": "毁灭俱乐部",
+			"mangaCoverimageUrl": "http://mhfm5.tel.cdndm5.com/32/31234/20160731212820_630x840_260.jpg",
+			"mangaAuthor": "クール教信者 ",
+			"mangaNewestContent": "第6话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 13:47:47",
+			"mangaNewsectionId": 405243,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 18529,
+			"mangaName": "陆道",
+			"mangaCoverimageUrl": "http://mhfm9.tel.cdndm5.com/19/18529/20150604105121_630x840_235.jpg",
+			"mangaAuthor": "松原利光 ",
+			"mangaNewestContent": "第22话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 13:46:48",
+			"mangaNewsectionId": 405242,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 7548,
+			"mangaName": "无口少女森田桑",
+			"mangaCoverimageUrl": "http://mhfm7.tel.cdndm5.com/8/7548/20160726130224_630x840_130.jpg",
+			"mangaAuthor": "佐野妙",
+			"mangaNewestContent": "第35话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 13:41:15",
+			"mangaNewsectionId": 405240,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 7573,
+			"mangaName": "蟑螂娘",
+			"mangaCoverimageUrl": "http://mhfm2.tel.cdndm5.com/8/7573/7573_h.jpg",
+			"mangaAuthor": "るい·たまち",
+			"mangaNewestContent": "第05卷彩页",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 13:39:24",
+			"mangaNewsectionId": 405239,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 1974,
+			"mangaName": "王牌投手－振臂高挥",
+			"mangaCoverimageUrl": "http://mhfm5.tel.cdndm5.com/2/1974/20150506165654_630x840_226.jpg",
+			"mangaAuthor": "樋口朝",
+			"mangaNewestContent": "第133话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 13:13:23",
+			"mangaNewsectionId": 405237,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 21417,
+			"mangaName": "(C89)月曜日のたわわ",
+			"mangaCoverimageUrl": "http://mhfm1.tel.cdndm5.com/22/21417/20160105140115_630x840_158.jpg",
+			"mangaAuthor": "比村奇石 ",
+			"mangaNewestContent": "续篇19",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 13:09:49",
+			"mangaNewsectionId": 405236,
+			"mangaIsOver": 0
+		},{
+			"mangaId": 22139,
+			"mangaName": "翻滚吧赞逗鸡",
+			"mangaCoverimageUrl": "http://mhfm1.tel.cdndm5.com/23/22139/20160307163927_630x840.jpg",
+			"mangaAuthor": "广州凡骜",
+			"mangaNewestContent": "第25回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 13:07:22",
+			"mangaNewsectionId": 405234,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 20931,
+			"mangaName": "SHORT CAKE CAKE",
+			"mangaCoverimageUrl": "http://mhfm6.tel.cdndm5.com/21/20931/20151112130150_630x840_332.jpg",
+			"mangaAuthor": "森下suu ",
+			"mangaNewestContent": "第17话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 12:35:56",
+			"mangaNewsectionId": 405232,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31703,
+			"mangaName": "人靠衣装马靠鞍",
+			"mangaCoverimageUrl": "http://mhfm6.tel.cdndm5.com/32/31703/20160905115252_630x840_165.jpg",
+			"mangaAuthor": "なつのうみ",
+			"mangaNewestContent": "第1话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 11:55:36",
+			"mangaNewsectionId": 405230,
+			"mangaIsOver": 1
+		}, {
+			"mangaId": 10496,
+			"mangaName": "人形刀兵",
+			"mangaCoverimageUrl": "http://mhfm3.tel.cdndm5.com/11/10496/20150618144910_630x840_84.jpg",
+			"mangaAuthor": "鬼军曹",
+			"mangaNewestContent": "第43话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 11:44:01",
+			"mangaNewsectionId": 405229,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 19637,
+			"mangaName": "左门君是召唤术士",
+			"mangaCoverimageUrl": "http://mhfm8.tel.cdndm5.com/20/19637/20151007113912_630x840_227.jpg",
+			"mangaAuthor": "沼骏 ",
+			"mangaNewestContent": "第46话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 11:22:57",
+			"mangaNewsectionId": 405225,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31701,
+			"mangaName": "恋情协定",
+			"mangaCoverimageUrl": "http://mhfm6.tel.cdndm5.com/32/31701/20160905103107_630x840_248.jpg",
+			"mangaAuthor": "咲仓まいか",
+			"mangaNewestContent": "第1话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 10:33:11",
+			"mangaNewsectionId": 405222,
+			"mangaIsOver": 1
+		}, {
+			"mangaId": 14911,
+			"mangaName": "学园管家",
+			"mangaCoverimageUrl": "http://mhfm6.tel.cdndm5.com/15/14911/20150417163001_630x840_172.jpg",
+			"mangaAuthor": "伊沢玲",
+			"mangaNewestContent": " Encore#01",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 10:25:07",
+			"mangaNewsectionId": 405220,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31235,
+			"mangaName": "局外人",
+			"mangaCoverimageUrl": "http://mhfm9.tel.cdndm5.com/32/31235/20160731223117_630x840_195.jpg",
+			"mangaAuthor": "DC Comics ",
+			"mangaNewestContent": "第6话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 10:21:52",
+			"mangaNewsectionId": 405219,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 21392,
+			"mangaName": "只要贝尔哲布布大小姐喜欢就好",
+			"mangaCoverimageUrl": "http://mhfm7.tel.cdndm5.com/22/21392/20151231144543_630x840_162.jpg",
+			"mangaAuthor": "matoba ",
+			"mangaNewestContent": "第13话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 10:06:54",
+			"mangaNewsectionId": 405216,
+			"mangaIsOver": 0
+		},{
+			"mangaId": 31701,
+			"mangaName": "恋情协定",
+			"mangaCoverimageUrl": "http://mhfm6.tel.cdndm5.com/32/31701/20160905103107_630x840_248.jpg",
+			"mangaAuthor": "咲仓まいか",
+			"mangaNewestContent": "第1话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 10:33:11",
+			"mangaNewsectionId": 405222,
+			"mangaIsOver": 1
+		}, {
+			"mangaId": 14911,
+			"mangaName": "学园管家",
+			"mangaCoverimageUrl": "http://mhfm6.tel.cdndm5.com/15/14911/20150417163001_630x840_172.jpg",
+			"mangaAuthor": "伊沢玲",
+			"mangaNewestContent": " Encore#01",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 10:25:07",
+			"mangaNewsectionId": 405220,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31235,
+			"mangaName": "局外人",
+			"mangaCoverimageUrl": "http://mhfm9.tel.cdndm5.com/32/31235/20160731223117_630x840_195.jpg",
+			"mangaAuthor": "DC Comics ",
+			"mangaNewestContent": "第6话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 10:21:52",
+			"mangaNewsectionId": 405219,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 21392,
+			"mangaName": "只要贝尔哲布布大小姐喜欢就好",
+			"mangaCoverimageUrl": "http://mhfm7.tel.cdndm5.com/22/21392/20151231144543_630x840_162.jpg",
+			"mangaAuthor": "matoba ",
+			"mangaNewestContent": "第13话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 10:06:54",
+			"mangaNewsectionId": 405216,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 7086,
+			"mangaName": "赌博堕天录-和也篇",
+			"mangaCoverimageUrl": "http://mhfm1.tel.cdndm5.com/8/7086/7086_h.jpg",
+			"mangaAuthor": "福本伸行",
+			"mangaNewestContent": "第184话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 10:06:09",
+			"mangaNewsectionId": 405215,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 17550,
+			"mangaName": "大祭司伊姆霍特普",
+			"mangaCoverimageUrl": "http://mhfm9.tel.cdndm5.com/18/17550/20150308102248_630x840_186.jpg",
+			"mangaAuthor": "森下真",
+			"mangaNewestContent": "第17话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 09:44:10",
+			"mangaNewsectionId": 405212,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 12788,
+			"mangaName": "孤独的美食家",
+			"mangaCoverimageUrl": "http://mhfm3.tel.cdndm5.com/13/12788/20150430165337_630x840_182.jpg",
+			"mangaAuthor": "谷口二郎  久住昌之",
+			"mangaNewestContent": "第29话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 09:41:38",
+			"mangaNewsectionId": 405211,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 22483,
+			"mangaName": "除灵少年林蛋大",
+			"mangaCoverimageUrl": "http://mhfm6.tel.cdndm5.com/23/22483/20160407175256_630x840.jpg",
+			"mangaAuthor": "有神林蛋大",
+			"mangaNewestContent": "第58回",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 09:41:20",
+			"mangaNewsectionId": 405209,
+			"mangaIsOver": 0
+		}, {
+			"mangaId": 31687,
+			"mangaName": "恋人未满",
+			"mangaCoverimageUrl": "http://mhfm2.tel.cdndm5.com/32/31687/20160903225111_630x840_211.jpg",
+			"mangaAuthor": "村崎翠",
+			"mangaNewestContent": "第2话",
+			"mangaIsNewest": 1,
+			"mangaNewestTime": "2016-09-05 09:40:29",
+			"mangaNewsectionId": 405208,
+			"mangaIsOver": 0
+		}]
+	}
+}
